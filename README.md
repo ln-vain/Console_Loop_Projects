@@ -13,7 +13,7 @@ The player has 5 attempts to guess the correct number.
 ### Features:
 - Random number generation using Random
 - Hint system:
-  - Tells the user if the guess is close (±3)
+  - Tells the user if the guess is close (±5)
   - Provides a range (greater than X, less than Y)
 - Tracks and displays remaining attempts
 - Informs the user of the correct number if they lose
